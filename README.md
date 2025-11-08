@@ -20,7 +20,7 @@ A fun and interactive Rock Paper Scissors game built with vanilla JavaScript, HT
 
 ## 📸 Screenshots
 
-*Screenshots will be added soon*
+![Game Screenshot](./Screenshot%20(77).png)
 
 ## 🏃‍♂️ Getting Started
 
